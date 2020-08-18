@@ -1,6 +1,6 @@
 # GCE Service Account Access Token Extractor
 
-### Python logic to fetch the application-default service account programatically from within GCE, App Engine, Cloudfunctions, or other GCE-associated services
+##### Python logic to fetch the application-default service account programatically from within GCE, App Engine, Cloudfunctions, or other GCE-associated services
 
 ### Usage
 - Suppose you need to make an authenticated request to a GCP endpoint from within a GCE instance
